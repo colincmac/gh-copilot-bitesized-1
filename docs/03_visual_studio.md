@@ -1,10 +1,17 @@
 # DEMO 3 - Visual Studio Debugging and CPU Analysis
 
 There are various demos in the sample [project](..//dotnet/).
-1. It will help to make sure the Diagnostic tools window is showing: **Debug** > **Windows** > **Show Diagnostic Tools**
-2. For the demo showing off the CPU analyzer, make sure CPU Usage is being analyzed by checking (in the Diagnostic Tools pane): **Select Tools** > [✓] **CPU Usage**
+Prerequisites:
+
+- Make sure the Diagnostic tools window is showing: **Debug** > **Windows** > **Show Diagnostic Tools**
+- Enable CPU profiling in the Diagnostic Tools pane: **Select Tools** > [✓] **CPU Usage**
+
+Demos:
+- [DEMO: CPU Profile Auto Insights](#demo-cpu-profile-auto-insights)
+- [Beyond Intellisense]
 
 ## DEMO: CPU Profile Auto Insights
+!
 Go to the [Program.cs](..//dotnet/DemoApp/DemoApp/Program.cs) and uncomment the lines under the "String Concatenation Demo".
 Your Diagnostics Panel should show something similar to below. 
 <p style="margin-left: 30px;"><img src="media/visual-studio-1.png"/></p>

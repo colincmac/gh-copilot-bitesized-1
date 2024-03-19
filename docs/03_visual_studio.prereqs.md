@@ -4,7 +4,7 @@ This shows how to install Copilot Extension for Visual Studio IDE. You need to i
 
 ## Step 1: Install Visual Studio IDE
 
-You need to make sure that you installed **Vistual STudio IDE** before installing Copilot extension for Visual Studio IDE.
+You need to make sure that you installed **Visual Studio IDE** before installing Copilot extension for Visual Studio IDE.
 
 [Download Visual Studio](https://visualstudio.microsoft.com/downloads/).
 
